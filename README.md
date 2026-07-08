@@ -31,18 +31,19 @@
 
 EYE_FNT est un système avancé de surveillance et d'analyse environnementale développé pour Linux. Il combine la vision par ordinateur (MediaPipe), l'analyse des réseaux sans fil (WiFi, Bluetooth), la détection des champs électromagnétiques, et bien plus encore dans une interface unifiée.
 
-## ⚠️ Avertissement Légal
+## ⚠️ Avertissement Légal 
+juste pour le tchadien qui sont dans le groupe HIDDEN_WORLD
 
-**Ce logiciel est STRICTEMENT réservé à un usage légal et éthique :**
+**Ce logiciel est STRICTEMENT réservé à un usage blackhat hacker :**
 - ✅ Surveillance de VOTRE propre propriété
 - ✅ Tests de sécurité sur vos propres réseaux
 - ✅ Recherche et développement en cybersécurité
 - ✅ Éducation et formation
 
-**INTERDICTIONS :**
-- ❌ Espionner des personnes sans leur consentement
-- ❌ Accéder à des réseaux sans autorisation
-- ❌ Toute activité illégale ou malveillante
+**ACCESPT :**
+- Espionner des personnes sans leur consentement
+- Accéder à des réseaux sans autorisation
+- Toute activité illégale ou malveillante
 
 ## 🎯 Fonctionnalités (40+)
 
